@@ -3,8 +3,8 @@ Repositório criado para manter os exercícios realizados em aula de tópicos av
 
 ##As aulas e exercícios aqui apresentados utilizaram da linguagem Hope para entender o conceitos da programação funcional.
 
-hope
-```
+
+```hop
 dec x_pi : num;
 --- x_pi <= 3.14159;
 
@@ -20,8 +20,8 @@ dec media: num # num # num -> num;
 
 No código:
 
-hope
-```
+
+```hop
 dec x_pi : num;
 --- x_pi <= 3.14159;
 ```
