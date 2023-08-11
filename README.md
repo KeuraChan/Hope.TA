@@ -20,9 +20,10 @@ dec media: num # num # num -> num;
 
 No código:
 
-    ```hope
-    dec x_pi : num;
-    --- x_pi <= 3.14159;
-    ```
+hope
+```
+dec x_pi : num;
+--- x_pi <= 3.14159;
+```
 É feita a declaração da função x_pi que não tem entrada, e possui um 'retorno' de valor NUMÉRICO (num);
 '---' é a codificação da ação que será realizada. No exemplo, colocando o valor 3.14159 em x_pi
