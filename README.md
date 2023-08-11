@@ -1,7 +1,7 @@
 # Hope.TA
 Repositório criado para manter os exercícios realizados em aula de tópicos avançados com o professor algusto manzano
 
-##As aulas e exercícios aqui apresentados utilizaram da linguagem Hope para entender o conceitos da programação funcional.
+## As aulas e exercícios aqui apresentados utilizaram da linguagem Hope para entender o conceitos da programação funcional.
 
 
 ```hop
