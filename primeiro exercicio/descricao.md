@@ -2,8 +2,7 @@
 
 As funções aqui apresentadas são as primeiras operações realizadas em programação funcional na linguagem Hope
 
-```hope
-
+```hop
 dec x_pi : num;
 dec acirc : num -> num;
 dec soma : num # num -> num;
@@ -16,5 +15,4 @@ dec media: num # num # num -> num;
 --- soma (x, y) <= x + y;
 
 --- media (x,y,z) <= (x + y + z) / 3;
-
 ```
