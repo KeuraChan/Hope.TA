@@ -1,4 +1,4 @@
-#Primeiras funções
+# Primeiras funções
 
 As funções aqui apresentadas são as primeiras operações realizadas em programação funcional na linguagem Hope
 
